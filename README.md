@@ -1,4 +1,4 @@
-#Django Project  
+# Django Project  
 ##### http://aza1200.pythonanywhere.com/  
 
 #### 1. 장고 class 형 view 로 편집
